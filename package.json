@@ -4,6 +4,7 @@
   "description": "Proyecto de API Rest con NodeJS para el curso de Musify",
   "main": "index.js",
   "scripts": {
+  	"start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matias Ruiz Moreno",
