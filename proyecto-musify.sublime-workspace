@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"most",
+				"mostrarCajerosSinDistancia"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"me",
+				"menu_bar"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"vi",
+				"video"
+			],
+			[
+				"re",
+				"resource"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ro",
+				"routeParams"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"tem",
+				"templateUrl"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"f",
+				"footer	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"TI",
+				"title	Tag"
+			],
+			[
+				"user",
+				"User"
+			],
+			[
+				"us",
+				"User"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"es",
+				"Esto"
+			],
+			[
+				"g",
+				"GET"
+			],
+			[
+				"modal",
+				"modalInstance"
+			],
+			[
+				"conet",
+				"content"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"tar",
+				"tareas"
+			],
+			[
+				"tare",
+				"tareasEnAlmacen"
+			],
+			[
+				"bow",
+				"bower_components"
+			],
+			[
+				"grun",
+				"grunt-contrib-jshint"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"al",
+				"AlumnoController"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/Proyectos/Musify/proyecto-musify.json",
+		"/C/wamp64/www/Proyectos/Musify/package.json",
+		"/C/xampp/htdocs/sistemaGastos/application/config/config.php",
+		"/C/xampp/htdocs/sistemaGastos/application/config/autoload.php",
+		"/C/xampp/htdocs/sistemaGastos/.htaccess",
+		"/C/xampp/htdocs/sistemaGastos/application/views/consultar.php",
+		"/C/xampp/htdocs/sistemaGastos/application/views/cargar.php",
+		"/C/xampp/htdocs/sistemaGastos/application/controllers/sistema.php",
+		"/C/xampp/htdocs/sistemaGastos/application/views/includes/header.php",
+		"/C/xampp/htdocs/sistemaGastos/application/views/includes/header_sistema.php",
+		"/C/xampp/htdocs/sistemaGastos/application/views/includes/footer_sistema.php",
+		"/C/xampp/htdocs/sistemaGastos/css/myStyle.css",
+		"/C/xampp/htdocs/sistemaGastos/application/views/includes/footer.php",
+		"/C/xampp/htdocs/sistemaGastos/application/models/modelo_categorias.php",
+		"/C/xampp/htdocs/sistemaGastos/application/models/modelo_gastos.php",
+		"/C/xampp/htdocs/sistemaGastos/application/config/database.php",
+		"/C/xampp/htdocs/sistemaGastos/application/views/exitoso.php",
+		"/C/xampp/htdocs/Cajeros/app/Http/Controllers/CajerosController.php",
+		"/C/xampp/htdocs/Cajeros/resources/views/localizar.php",
+		"/C/xampp/htdocs/Cajeros/resources/views/buscarCajerosConDistancia.php",
+		"/C/xampp/htdocs/Cajeros/resources/views/buscarCajeros.php",
+		"/C/xampp/htdocs/Cajeros/resources/views/inicio.php",
+		"/C/xampp/htdocs/Cajeros/public/css/estilos.css",
+		"/C/xampp/htdocs/Cajeros/public/PNG/link.png",
+		"/C/xampp/htdocs/Cajeros/app/Http/routes.php",
+		"/C/xampp/htdocs/Cajeros/resources/views/contactanos.php",
+		"/C/xampp/htdocs/Cajeros/public/contactanos.php",
+		"/C/xampp/htdocs/Cajeros/public/index2.php",
+		"/C/xampp/htdocs/Cajeros/config/database.php",
+		"/C/xampp/htdocs/Cajeros/public/buscarCajeros.php",
+		"/C/xampp/htdocs/Cajeros/public/index.php",
+		"/C/xampp/htdocs/Cajeros/app/Http/Controllers/CajerosController",
+		"/C/xampp/htdocs/Cajeros/.env",
+		"/C/xampp/htdocs/DisenioLocalizadorCajeros/index.html",
+		"/C/xampp/htdocs/DisenioLocalizadorCajeros/contactanos.html",
+		"/C/xampp/htdocs/DisenioLocalizadorCajeros/script/menu.js",
+		"/C/xampp/htdocs/DisenioLocalizadorCajeros/buscarCajeros.html",
+		"/C/xampp/htdocs/DisenioLocalizadorCajeros/css/estilos.css",
+		"/C/xampp/htdocs/DisenioLocalizadorCajeros/contactanos",
+		"/C/xampp/htdocs/DisenioLocalizadorCajeros/css/fonts.css",
+		"/C/xampp/htdocs/DisenioLocalizadorCajeros/bower_components/index.html",
+		"/C/xampp/htdocs/curso-laravel/app/Http/Controllers/VideoController.php",
+		"/C/xampp/htdocs/LocalizadorCajeros/.env",
+		"/C/xampp/htdocs/curso-angular/scripts/app.js",
+		"/C/xampp/htdocs/curso-angular/templates/edit.html",
+		"/C/xampp/htdocs/curso-angular/templates/create.html",
+		"/C/xampp/htdocs/curso-angular/index.html",
+		"/C/xampp/htdocs/curso-angular/forms/video.html",
+		"/C/xampp/htdocs/curso-angular/templates/nav.html",
+		"/C/xampp/htdocs/curso-angular/templates/list.html",
+		"/C/xampp/htdocs/curso-laravel/app/Http/routes.php",
+		"/C/xampp/htdocs/curso-laravel/database/migrations/2015_08_27_145209_create_videos_table.php",
+		"/C/xampp/htdocs/curso-laravel/app/Models/Video.php",
+		"/C/xampp/htdocs/curso-laravel/.env",
+		"/C/xampp/htdocs/laravel/restangularjslaravel/.env",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/sistemaGastos/application/views/includes/template_sistema.php",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/compraRealizadaNike.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/locales.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/compraRealizadaFalabella.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/falabella.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/nike.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/compraRealizada.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/compraRealizada",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/broma.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/inicio.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/casino.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/neverland.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/chinaWok.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/chinaWok",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/burgerking.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/mcdonalds.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/locales/mcdonalds.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/contacto.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/PrimerParcial(shopping)/css/estilos.css",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/tp5/about.html",
+		"/C/xampp/htdocs/usuarioGimnasio/index.php",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/tp5/inicio.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/tp5/css/miEstilo.css",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/tp5/contacto.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/Impresoras3D/inicio.html",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/Impresoras3D/css/miEstilo.css",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/Impresoras3D/bootstrap.min.js",
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/Impresoras3D/bootstrap.min.css",
+		"/C/Users/Matias/MEANJS/mean08/app/controllers/users.server.controller.js",
+		"/C/Users/Matias/MEANJS/mean07/app/models/user.server.model.js",
+		"/C/Users/Matias/MEANJS/mean05/package.json",
+		"/C/Users/Matias/mean03/app/controllers/index.server.controller.js",
+		"/C/Users/Matias/mean03/app/views/index.ejs",
+		"/C/Users/Matias/mean03/config/express.js",
+		"/C/Users/Matias/mean03/package.json",
+		"/C/Users/Matias/mean02/server.js",
+		"/C/Users/Matias/mean02/config/express.js",
+		"/C/Users/Matias/mean02/package.json",
+		"/C/Users/Matias/mean01/app/controllers/index.server.controller.js",
+		"/C/Users/Matias/mean01/app/routes/index.server.routes.js",
+		"/C/Users/Matias/mean01/server.js",
+		"/C/Users/Matias/mean01/config/express.js",
+		"/C/Users/Matias/mean01/ejemplos_codigo.js",
+		"/C/Users/Matias/prototipo/app/views/add-miembros.html",
+		"/C/Users/Matias/prototipo/app/views/miembros.html",
+		"/C/Users/Matias/prototipo/app/scripts/controllers/miembros.js",
+		"/C/Users/Matias/prototipo/app/styles/main.css",
+		"/C/Users/Matias/prototipo/app/miembros.json",
+		"/C/Users/Matias/prototipo/app/scripts/app.js",
+		"/C/Users/Matias/prototipo/app/index.html",
+		"/C/Users/Matias/prototipo/app/scripts/controllers/galeria.js",
+		"/C/Users/Matias/prototipo/app/views/galeria.html",
+		"/C/Users/Matias/prototipo/app/views/articulos.html",
+		"/C/Users/Matias/prototipo/app/scripts/controllers/articulos.js",
+		"/C/Users/Matias/prototipo/app/views/main.html",
+		"/C/Users/Matias/prototipo/app/scripts/controllers/main.js",
+		"/C/Users/Matias/tareas/test/spec/controllers/main.js",
+		"/C/Users/Matias/tareas/app/scripts/controllers/main.js",
+		"/C/Users/Matias/tareas/app/views/main.html",
+		"/C/Users/Matias/tareas/app/index.html",
+		"/C/Users/Matias/tareas/app/scripts/app.js",
+		"/C/Users/Matias/tareas/test/karma.conf.js",
+		"/C/Users/Matias/holaYeoman/app/scripts/app.js",
+		"/C/Users/Matias/MiProyecto/gruntfile.js",
+		"/C/Users/Matias/MiProyecto/script1.js",
+		"/C/Users/Matias/MiProyecto/script2.js",
+		"/C/Users/Matias/MiProyecto/scripts2.js.txt",
+		"/C/Users/Matias/MiProyecto/scripts1.js.txt",
+		"/C/Users/Matias/MiProyecto/scripts.js",
+		"/C/Users/Matias/MiProyecto/package.json",
+		"/C/Users/Matias/MiProyecto/package.json.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"helpers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}
