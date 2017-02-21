@@ -175,14 +175,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 275,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -208,8 +200,9 @@
 	},
 	"file_history":
 	[
-		"/C/wamp64/www/Proyectos/Musify/proyecto-musify.json",
+		"/C/wamp64/www/Proyectos/Musify/index.js",
 		"/C/wamp64/www/Proyectos/Musify/package.json",
+		"/C/wamp64/www/Proyectos/Musify/proyecto-musify.json",
 		"/C/xampp/htdocs/sistemaGastos/application/config/config.php",
 		"/C/xampp/htdocs/sistemaGastos/application/config/autoload.php",
 		"/C/xampp/htdocs/sistemaGastos/.htaccess",
@@ -334,8 +327,7 @@
 		"/C/Users/Matias/MiProyecto/scripts2.js.txt",
 		"/C/Users/Matias/MiProyecto/scripts1.js.txt",
 		"/C/Users/Matias/MiProyecto/scripts.js",
-		"/C/Users/Matias/MiProyecto/package.json",
-		"/C/Users/Matias/MiProyecto/package.json.txt"
+		"/C/Users/Matias/MiProyecto/package.json"
 	],
 	"find":
 	{
@@ -372,35 +364,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "package.json",
-					"settings":
-					{
-						"buffer_size": 275,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
