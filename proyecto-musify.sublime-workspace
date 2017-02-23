@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"user",
+				"userUpdated"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"us",
+				"user_routes"
+			],
+			[
+				"song",
+				"SongSchema"
+			],
+			[
+				"albu",
+				"AlbumSchema"
+			],
+			[
+				"Ar",
+				"ArtistSchema"
+			],
+			[
 				"most",
 				"mostrarCajerosSinDistancia"
 			],
@@ -30,10 +62,6 @@
 			[
 				"he",
 				"header	Tag"
-			],
-			[
-				"req",
-				"request"
 			],
 			[
 				"vi",
@@ -86,14 +114,6 @@
 			[
 				"TI",
 				"title	Tag"
-			],
-			[
-				"user",
-				"User"
-			],
-			[
-				"us",
-				"User"
 			],
 			[
 				"bo",
@@ -200,6 +220,18 @@
 	},
 	"file_history":
 	[
+		"/C/wamp64/www/Proyectos/Musify/controllers/user.js",
+		"/C/wamp64/www/Proyectos/Musify/routes/user.js",
+		"/C/wamp64/www/Proyectos/Musify/middlewares/authenticated.js",
+		"/C/wamp64/www/Proyectos/Musify/app.js",
+		"/C/wamp64/www/Proyectos/Musify/services/jwt.js",
+		"/C/wamp64/www/Proyectos/Musify/middlewares/authenticate.js",
+		"/C/wamp64/www/Proyectos/Musify/service/jwt.js",
+		"/C/wamp64/www/Proyectos/Musify/controller/user.js",
+		"/C/wamp64/www/Proyectos/Musify/models/song.js",
+		"/C/wamp64/www/Proyectos/Musify/models/album.js",
+		"/C/wamp64/www/Proyectos/Musify/models/artist.js",
+		"/C/wamp64/www/Proyectos/Musify/models/user.js",
 		"/C/wamp64/www/Proyectos/Musify/index.js",
 		"/C/wamp64/www/Proyectos/Musify/package.json",
 		"/C/wamp64/www/Proyectos/Musify/proyecto-musify.json",
@@ -315,19 +347,7 @@
 		"/C/Users/Matias/prototipo/app/views/main.html",
 		"/C/Users/Matias/prototipo/app/scripts/controllers/main.js",
 		"/C/Users/Matias/tareas/test/spec/controllers/main.js",
-		"/C/Users/Matias/tareas/app/scripts/controllers/main.js",
-		"/C/Users/Matias/tareas/app/views/main.html",
-		"/C/Users/Matias/tareas/app/index.html",
-		"/C/Users/Matias/tareas/app/scripts/app.js",
-		"/C/Users/Matias/tareas/test/karma.conf.js",
-		"/C/Users/Matias/holaYeoman/app/scripts/app.js",
-		"/C/Users/Matias/MiProyecto/gruntfile.js",
-		"/C/Users/Matias/MiProyecto/script1.js",
-		"/C/Users/Matias/MiProyecto/script2.js",
-		"/C/Users/Matias/MiProyecto/scripts2.js.txt",
-		"/C/Users/Matias/MiProyecto/scripts1.js.txt",
-		"/C/Users/Matias/MiProyecto/scripts.js",
-		"/C/Users/Matias/MiProyecto/package.json"
+		"/C/Users/Matias/tareas/app/scripts/controllers/main.js"
 	],
 	"find":
 	{
