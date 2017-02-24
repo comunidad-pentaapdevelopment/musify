@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"ar",
+				"artist_routes"
+			],
+			[
+				"get",
+				"getArtist"
+			],
+			[
+				"path",
+				"path_file"
+			],
+			[
+				"image",
+				"imageFile"
+			],
+			[
+				"file",
+				"file_ext"
+			],
+			[
 				"user",
 				"userUpdated"
 			],
@@ -220,10 +240,13 @@
 	},
 	"file_history":
 	[
-		"/C/wamp64/www/Proyectos/Musify/controllers/user.js",
+		"/C/wamp64/www/Proyectos/Musify/routes/artist.js",
+		"/C/wamp64/www/Proyectos/Musify/controllers/artist.js",
 		"/C/wamp64/www/Proyectos/Musify/routes/user.js",
-		"/C/wamp64/www/Proyectos/Musify/middlewares/authenticated.js",
 		"/C/wamp64/www/Proyectos/Musify/app.js",
+		"/C/wamp64/www/Proyectos/Musify/controllers/user.js",
+		"/C/wamp64/www/Proyectos/Musify/package.json",
+		"/C/wamp64/www/Proyectos/Musify/middlewares/authenticated.js",
 		"/C/wamp64/www/Proyectos/Musify/services/jwt.js",
 		"/C/wamp64/www/Proyectos/Musify/middlewares/authenticate.js",
 		"/C/wamp64/www/Proyectos/Musify/service/jwt.js",
@@ -233,7 +256,6 @@
 		"/C/wamp64/www/Proyectos/Musify/models/artist.js",
 		"/C/wamp64/www/Proyectos/Musify/models/user.js",
 		"/C/wamp64/www/Proyectos/Musify/index.js",
-		"/C/wamp64/www/Proyectos/Musify/package.json",
 		"/C/wamp64/www/Proyectos/Musify/proyecto-musify.json",
 		"/C/xampp/htdocs/sistemaGastos/application/config/config.php",
 		"/C/xampp/htdocs/sistemaGastos/application/config/autoload.php",
@@ -345,9 +367,7 @@
 		"/C/Users/Matias/prototipo/app/views/articulos.html",
 		"/C/Users/Matias/prototipo/app/scripts/controllers/articulos.js",
 		"/C/Users/Matias/prototipo/app/views/main.html",
-		"/C/Users/Matias/prototipo/app/scripts/controllers/main.js",
-		"/C/Users/Matias/tareas/test/spec/controllers/main.js",
-		"/C/Users/Matias/tareas/app/scripts/controllers/main.js"
+		"/C/Users/Matias/prototipo/app/scripts/controllers/main.js"
 	],
 	"find":
 	{
