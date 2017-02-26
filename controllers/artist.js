@@ -100,7 +100,7 @@ function deleteArtist(req, res){
 			}else{
 				res.status(200).send({artistRemoved});
 
-				Album.find({artist: artistRemoved_id}).remove((err,albumRemoved) =>{ // todos los albuum que en el campo artista tenga ese id y lo va a eliminar
+				Album.find({artist: artistRemoved._id}).remove((err,albumRemoved) =>{ // todos los albuum que en el campo artista tenga ese id y lo va a eliminar
 					if(err){
 						res.status(500).send({message:'Error al eliminar el album'});
 					}else{
@@ -109,7 +109,7 @@ function deleteArtist(req, res){
 							res.status(404).send({message:'El album no ha sido eliminado'});
 						}else{
 
-							Song.find({album: albumRemoved_id}).remove((err,songRemoved) =>{ // todos las canciones que en el campo album tenga ese id y lo va a eliminar
+							Song.find({album: albumRemoved._id}).remove((err,songRemoved) =>{ // todos las canciones que en el campo album tenga ese id y lo va a eliminar
 								if(err){
 									res.status(500).send({message:'Error al eliminar la canción'});
 								}else{

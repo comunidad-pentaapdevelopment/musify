@@ -4,12 +4,64 @@
 		"selected_items":
 		[
 			[
-				"ar",
-				"artist_routes"
+				"im",
+				"uploadImage"
+			],
+			[
+				"up",
+				"updateAlbum"
 			],
 			[
 				"get",
-				"getArtist"
+				"getAlbums"
+			],
+			[
+				"albu",
+				"albums"
+			],
+			[
+				"art",
+				"artistId"
+			],
+			[
+				"album",
+				"albumId"
+			],
+			[
+				"sav",
+				"saveAlbum"
+			],
+			[
+				"uplo",
+				"uploadImage"
+			],
+			[
+				"song",
+				"songRemoved"
+			],
+			[
+				"arti",
+				"artistRemoved"
+			],
+			[
+				"artis",
+				"artistRemoved"
+			],
+			[
+				"upd",
+				"updateArtist"
+			],
+			[
+				"ar",
+				"artistUpdated"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"save",
+				"saveArtist"
 			],
 			[
 				"path",
@@ -42,14 +94,6 @@
 			[
 				"us",
 				"user_routes"
-			],
-			[
-				"song",
-				"SongSchema"
-			],
-			[
-				"albu",
-				"AlbumSchema"
 			],
 			[
 				"Ar",
@@ -240,10 +284,13 @@
 	},
 	"file_history":
 	[
+		"/C/wamp64/www/Proyectos/Musify/routes/album.js",
+		"/C/wamp64/www/Proyectos/Musify/controllers/album.js",
+		"/C/wamp64/www/Proyectos/Musify/uploads/albums/kWgu95P5BaXHV3-9jvQMGtGK.png",
 		"/C/wamp64/www/Proyectos/Musify/routes/artist.js",
 		"/C/wamp64/www/Proyectos/Musify/controllers/artist.js",
-		"/C/wamp64/www/Proyectos/Musify/routes/user.js",
 		"/C/wamp64/www/Proyectos/Musify/app.js",
+		"/C/wamp64/www/Proyectos/Musify/routes/user.js",
 		"/C/wamp64/www/Proyectos/Musify/controllers/user.js",
 		"/C/wamp64/www/Proyectos/Musify/package.json",
 		"/C/wamp64/www/Proyectos/Musify/middlewares/authenticated.js",
@@ -364,10 +411,7 @@
 		"/C/Users/Matias/prototipo/app/index.html",
 		"/C/Users/Matias/prototipo/app/scripts/controllers/galeria.js",
 		"/C/Users/Matias/prototipo/app/views/galeria.html",
-		"/C/Users/Matias/prototipo/app/views/articulos.html",
-		"/C/Users/Matias/prototipo/app/scripts/controllers/articulos.js",
-		"/C/Users/Matias/prototipo/app/views/main.html",
-		"/C/Users/Matias/prototipo/app/scripts/controllers/main.js"
+		"/C/Users/Matias/prototipo/app/views/articulos.html"
 	],
 	"find":
 	{
@@ -385,6 +429,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"if(err){\n						res.status(500).send({message:'Error al eliminar el album'});\n					}else{\n						if(!albumRemoved)\n						{\n							res.status(404).send({message:'El album no ha sido eliminado'});\n						}else{\n\n							Song.find({album: albumRemoved_id}).remove((err,songRemoved) =>{ // todos las canciones que en el campo album tenga ese id y lo va a eliminar\n								if(err){\n									res.status(500).send({message:'Error al eliminar la canción'});\n								}else{\n									if(!songRemoved)\n									{\n										res.status(404).send({message:'La canción no ha sido eliminada'});\n									}else{\n										res.status(200).send({artist: artistRemoved});\n									}\n								}	\n							}); \n						}	\n					}\n				}); ",
 			";\n",
 			"helpers"
 		],
@@ -465,6 +510,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 221.0,
+	"side_bar_width": 147.0,
 	"status_bar_visible": true
 }
