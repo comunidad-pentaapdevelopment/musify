@@ -300,6 +300,7 @@
 	},
 	"file_history":
 	[
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.ts",
 		"/C/wamp64/www/Proyectos/Musify/app.js",
 		"/C/wamp64/www/Proyectos/Musify/controllers/user.js",
 		"/C/wamp64/www/Proyectos/Musify/controllers/song.js",
@@ -426,8 +427,7 @@
 		"/C/Users/Matias/prototipo/app/styles/main.css",
 		"/C/Users/Matias/prototipo/app/miembros.json",
 		"/C/Users/Matias/prototipo/app/scripts/app.js",
-		"/C/Users/Matias/prototipo/app/index.html",
-		"/C/Users/Matias/prototipo/app/scripts/controllers/galeria.js"
+		"/C/Users/Matias/prototipo/app/index.html"
 	],
 	"find":
 	{
@@ -526,6 +526,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 147.0,
+	"side_bar_width": 230.0,
 	"status_bar_visible": true
 }
