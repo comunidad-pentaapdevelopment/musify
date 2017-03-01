@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bo",
+				"bootstrap"
+			],
+			[
 				"ac",
 				"Access-Control-Allow-Headers"
 			],
@@ -196,10 +200,6 @@
 				"title	Tag"
 			],
 			[
-				"bo",
-				"bodyParser"
-			],
-			[
 				"es",
 				"Esto"
 			],
@@ -301,6 +301,14 @@
 	"file_history":
 	[
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.html",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/song.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/album.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/artist.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/user.ts",
+		"/C/wamp64/www/Proyectos/Musify/api/models/artist.js",
+		"/C/wamp64/www/Proyectos/Musify/client/src/assets/css/styles.css",
+		"/C/wamp64/www/Proyectos/Musify/client/src/index.html",
 		"/C/wamp64/www/Proyectos/Musify/app.js",
 		"/C/wamp64/www/Proyectos/Musify/controllers/user.js",
 		"/C/wamp64/www/Proyectos/Musify/controllers/song.js",
@@ -419,15 +427,7 @@
 		"/C/Users/Matias/mean01/app/controllers/index.server.controller.js",
 		"/C/Users/Matias/mean01/app/routes/index.server.routes.js",
 		"/C/Users/Matias/mean01/server.js",
-		"/C/Users/Matias/mean01/config/express.js",
-		"/C/Users/Matias/mean01/ejemplos_codigo.js",
-		"/C/Users/Matias/prototipo/app/views/add-miembros.html",
-		"/C/Users/Matias/prototipo/app/views/miembros.html",
-		"/C/Users/Matias/prototipo/app/scripts/controllers/miembros.js",
-		"/C/Users/Matias/prototipo/app/styles/main.css",
-		"/C/Users/Matias/prototipo/app/miembros.json",
-		"/C/Users/Matias/prototipo/app/scripts/app.js",
-		"/C/Users/Matias/prototipo/app/index.html"
+		"/C/Users/Matias/mean01/config/express.js"
 	],
 	"find":
 	{
@@ -526,6 +526,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 230.0,
+	"side_bar_width": 198.0,
 	"status_bar_visible": true
 }
