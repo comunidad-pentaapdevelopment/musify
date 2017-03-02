@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"user",
+				"user_register"
+			],
+			[
+				"ale",
+				"alertRegister"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"get",
+				"gethash"
+			],
+			[
+				"User",
+				"UserService"
+			],
+			[
 				"bo",
 				"bootstrap"
 			],
@@ -26,10 +58,6 @@
 			[
 				"upa",
 				"updateSong"
-			],
-			[
-				"get",
-				"getSongs"
 			],
 			[
 				"son",
@@ -96,20 +124,12 @@
 				"file_ext"
 			],
 			[
-				"user",
-				"userUpdated"
-			],
-			[
 				"para",
 				"params"
 			],
 			[
 				"req",
 				"require"
-			],
-			[
-				"User",
-				"User"
 			],
 			[
 				"us",
@@ -301,11 +321,14 @@
 	"file_history":
 	[
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/services/user.service.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.html",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/user.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/services/global.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.module.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/song.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/album.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/artist.ts",
-		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/user.ts",
 		"/C/wamp64/www/Proyectos/Musify/api/models/artist.js",
 		"/C/wamp64/www/Proyectos/Musify/client/src/assets/css/styles.css",
 		"/C/wamp64/www/Proyectos/Musify/client/src/index.html",
@@ -424,10 +447,7 @@
 		"/C/Users/Matias/mean02/server.js",
 		"/C/Users/Matias/mean02/config/express.js",
 		"/C/Users/Matias/mean02/package.json",
-		"/C/Users/Matias/mean01/app/controllers/index.server.controller.js",
-		"/C/Users/Matias/mean01/app/routes/index.server.routes.js",
-		"/C/Users/Matias/mean01/server.js",
-		"/C/Users/Matias/mean01/config/express.js"
+		"/C/Users/Matias/mean01/app/controllers/index.server.controller.js"
 	],
 	"find":
 	{
