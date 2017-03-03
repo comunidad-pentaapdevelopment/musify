@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"com",
+				"component"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
 				"user",
 				"user_register"
 			],
@@ -295,6 +303,62 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "client/src/app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 3214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/src/app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 3134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/src/app/app.routing.ts",
+			"settings":
+			{
+				"buffer_size": 490,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/app/services/user.service.ts",
+			"settings":
+			{
+				"buffer_size": 1666,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/app/components/user-edit.component.ts",
+			"settings":
+			{
+				"buffer_size": 1316,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/app/views/user-edit.html",
+			"settings":
+			{
+				"buffer_size": 1254,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 624,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -320,12 +384,13 @@
 	},
 	"file_history":
 	[
-		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.ts",
+		"/C/wamp64/www/Proyectos/Musify/api/controllers/user.js",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.module.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/services/global.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/services/user.service.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.html",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/user.ts",
-		"/C/wamp64/www/Proyectos/Musify/client/src/app/services/global.ts",
-		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.module.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/song.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/album.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/artist.ts",
@@ -446,8 +511,7 @@
 		"/C/Users/Matias/mean03/package.json",
 		"/C/Users/Matias/mean02/server.js",
 		"/C/Users/Matias/mean02/config/express.js",
-		"/C/Users/Matias/mean02/package.json",
-		"/C/Users/Matias/mean01/app/controllers/index.server.controller.js"
+		"/C/Users/Matias/mean02/package.json"
 	],
 	"find":
 	{
@@ -485,8 +549,197 @@
 	"groups":
 	[
 		{
+			"selected": 5,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "client/src/app/app.component.ts",
+					"settings":
+					{
+						"buffer_size": 3214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1444,
+								1450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 821.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/src/app/app.component.html",
+					"settings":
+					{
+						"buffer_size": 3134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 440.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/src/app/app.routing.ts",
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/src/app/services/user.service.ts",
+					"settings":
+					{
+						"buffer_size": 1666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 136.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/src/app/components/user-edit.component.ts",
+					"settings":
+					{
+						"buffer_size": 1316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1049,
+								1049
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 99.0,
+						"translation.y": 715.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/src/app/views/user-edit.html",
+					"settings":
+					{
+						"buffer_size": 1254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1151,
+								1151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 746.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "client/src/app/app.module.ts",
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
