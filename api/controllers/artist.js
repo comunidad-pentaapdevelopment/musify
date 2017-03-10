@@ -30,7 +30,7 @@ function getArtists(req, res){
 	}else{
 		var page = 1;
 	}
-	var itemsPerPage = 3;
+	var itemsPerPage = 4;
 
 	Artist.find().sort('name').paginate(page, itemsPerPage, function(err,artists,total){
 		if(err){
@@ -98,8 +98,6 @@ function deleteArtist(req, res){
 			{
 				res.status(404).send({message:'El artista no ha sido eliminado'});
 			}else{
-				res.status(200).send({artistRemoved});
-
 				Album.find({artist: artistRemoved._id}).remove((err,albumRemoved) =>{ // todos los albuum que en el campo artista tenga ese id y lo va a eliminar
 					if(err){
 						res.status(500).send({message:'Error al eliminar el album'});

@@ -4,16 +4,72 @@
 		"selected_items":
 		[
 			[
+				"ar",
+				"artist-item"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"up",
+				"UploadService"
+			],
+			[
+				"_ro",
+				"_router"
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"art",
+				"ArtistService"
+			],
+			[
+				"artis",
+				"ArtistAddComponent"
+			],
+			[
+				"arti",
+				"ArtistAddComponent"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"user",
+				"user-image"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ima",
+				"image_path"
+			],
+			[
+				"glo",
+				"GLOBAL"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
 				"com",
 				"component"
 			],
 			[
 				"pu",
 				"public"
-			],
-			[
-				"user",
-				"user_register"
 			],
 			[
 				"ale",
@@ -76,16 +132,8 @@
 				"uploadImage"
 			],
 			[
-				"up",
-				"updateAlbum"
-			],
-			[
 				"albu",
 				"albums"
-			],
-			[
-				"art",
-				"artistId"
 			],
 			[
 				"album",
@@ -98,18 +146,6 @@
 			[
 				"song",
 				"songRemoved"
-			],
-			[
-				"arti",
-				"artistRemoved"
-			],
-			[
-				"artis",
-				"artistRemoved"
-			],
-			[
-				"ar",
-				"artistUpdated"
 			],
 			[
 				"fin",
@@ -172,10 +208,6 @@
 				"rgba()"
 			],
 			[
-				"he",
-				"header	Tag"
-			],
-			[
 				"vi",
 				"video"
 			],
@@ -202,10 +234,6 @@
 			[
 				"h",
 				"h1	Tag"
-			],
-			[
-				"padd",
-				"padding-right"
 			],
 			[
 				"fon",
@@ -246,10 +274,6 @@
 			[
 				"con",
 				"content"
-			],
-			[
-				"bac",
-				"background-color"
 			],
 			[
 				"pad",
@@ -304,18 +328,10 @@
 	"buffers":
 	[
 		{
-			"file": "client/src/app/app.component.ts",
+			"file": "client/src/app/app.module.ts",
 			"settings":
 			{
-				"buffer_size": 3214,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/src/app/app.component.html",
-			"settings":
-			{
-				"buffer_size": 3134,
+				"buffer_size": 999,
 				"line_ending": "Unix"
 			}
 		},
@@ -323,40 +339,32 @@
 			"file": "client/src/app/app.routing.ts",
 			"settings":
 			{
-				"buffer_size": 490,
+				"buffer_size": 976,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "client/src/app/services/user.service.ts",
+			"file": "client/src/assets/css/styles.css",
 			"settings":
 			{
-				"buffer_size": 1666,
+				"buffer_size": 1500,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "client/src/app/components/user-edit.component.ts",
+			"file": "client/src/app/components/artist-list.component.ts",
 			"settings":
 			{
-				"buffer_size": 1316,
+				"buffer_size": 1801,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "client/src/app/views/user-edit.html",
+			"file": "client/src/app/views/artist-list.html",
 			"settings":
 			{
-				"buffer_size": 1254,
+				"buffer_size": 944,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/src/app/app.module.ts",
-			"settings":
-			{
-				"buffer_size": 624,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -384,18 +392,33 @@
 	},
 	"file_history":
 	[
-		"/C/wamp64/www/Proyectos/Musify/api/controllers/user.js",
+		"/C/wamp64/www/Proyectos/Musify/api/controllers/artist.js",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/components/artist-add.component.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/views/artist-add.html",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/components/artist-edit.component.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/services/upload.service.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/services/artist.service.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/components/artist-list.component.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/views/user-edit.html",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/components/user-edit.component.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.module.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.routing.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/assets/css/styles.css",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.html",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/views/home.html",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/components/home.component.ts",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/views/artist-list.html",
+		"/C/wamp64/www/Proyectos/Musify/api/controllers/user.js",
+		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.css",
+		"/C/wamp64/www/Proyectos/Musify/api/routes/user.js",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/services/global.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/services/user.service.ts",
-		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.ts",
-		"/C/wamp64/www/Proyectos/Musify/client/src/app/app.component.html",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/user.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/song.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/album.ts",
 		"/C/wamp64/www/Proyectos/Musify/client/src/app/models/artist.ts",
 		"/C/wamp64/www/Proyectos/Musify/api/models/artist.js",
-		"/C/wamp64/www/Proyectos/Musify/client/src/assets/css/styles.css",
 		"/C/wamp64/www/Proyectos/Musify/client/src/index.html",
 		"/C/wamp64/www/Proyectos/Musify/app.js",
 		"/C/wamp64/www/Proyectos/Musify/controllers/user.js",
@@ -496,22 +519,7 @@
 		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/tp5/about.html",
 		"/C/xampp/htdocs/usuarioGimnasio/index.php",
 		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/tp5/inicio.html",
-		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/tp5/css/miEstilo.css",
-		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/tp5/contacto.html",
-		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/Impresoras3D/inicio.html",
-		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/Impresoras3D/css/miEstilo.css",
-		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/Impresoras3D/bootstrap.min.js",
-		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/Impresoras3D/bootstrap.min.css",
-		"/C/Users/Matias/MEANJS/mean08/app/controllers/users.server.controller.js",
-		"/C/Users/Matias/MEANJS/mean07/app/models/user.server.model.js",
-		"/C/Users/Matias/MEANJS/mean05/package.json",
-		"/C/Users/Matias/mean03/app/controllers/index.server.controller.js",
-		"/C/Users/Matias/mean03/app/views/index.ejs",
-		"/C/Users/Matias/mean03/config/express.js",
-		"/C/Users/Matias/mean03/package.json",
-		"/C/Users/Matias/mean02/server.js",
-		"/C/Users/Matias/mean02/config/express.js",
-		"/C/Users/Matias/mean02/package.json"
+		"/C/Matias/Tecnicatura Sup en Programacion/Segundo Año/Programacion 3/tp5/css/miEstilo.css"
 	],
 	"find":
 	{
@@ -549,23 +557,23 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "client/src/app/app.component.ts",
+					"file": "client/src/app/app.module.ts",
 					"settings":
 					{
-						"buffer_size": 3214,
+						"buffer_size": 999,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1444,
-								1450
+								817,
+								817
 							]
 						],
 						"settings":
@@ -575,52 +583,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 821.0,
+						"translation.y": 348.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "client/src/app/app.component.html",
-					"settings":
-					{
-						"buffer_size": 3134,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								499,
-								499
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 440.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "client/src/app/app.routing.ts",
 					"settings":
 					{
-						"buffer_size": 490,
+						"buffer_size": 976,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								489,
-								489
+								754,
+								754
 							]
 						],
 						"settings":
@@ -628,25 +609,52 @@
 							"syntax": "Packages/Java/Java.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 81.0,
+						"translation.y": 259.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "client/src/app/services/user.service.ts",
+					"buffer": 2,
+					"file": "client/src/assets/css/styles.css",
 					"settings":
 					{
-						"buffer_size": 1666,
+						"buffer_size": 1500,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								487,
-								491
+								1451,
+								1451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2101.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/src/app/components/artist-list.component.ts",
+					"settings":
+					{
+						"buffer_size": 1801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								568,
+								568
 							]
 						],
 						"settings":
@@ -655,51 +663,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 136.0,
+						"translation.y": 428.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "client/src/app/components/user-edit.component.ts",
+					"file": "client/src/app/views/artist-list.html",
 					"settings":
 					{
-						"buffer_size": 1316,
+						"buffer_size": 944,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1049,
-								1049
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.tmLanguage"
-						},
-						"translation.x": 99.0,
-						"translation.y": 715.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "client/src/app/views/user-edit.html",
-					"settings":
-					{
-						"buffer_size": 1254,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1151,
-								1151
+								609,
+								609
 							]
 						],
 						"settings":
@@ -707,35 +689,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 746.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "client/src/app/app.module.ts",
-					"settings":
-					{
-						"buffer_size": 624,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								563,
-								563
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 288.0,
+						"translation.y": 247.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -799,6 +753,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 198.0,
+	"side_bar_width": 246.0,
 	"status_bar_visible": true
 }
